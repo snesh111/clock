@@ -11,7 +11,7 @@ body {
 
 .clock-container {
   text-align: center;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(90, 69, 69, 0.2);
   padding: 40px 60px;
   border-radius: 20px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
